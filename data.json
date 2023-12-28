@@ -1,6 +1,0 @@
-{'Number': [1, 2, 3, 4, 5],
-  'Name': ['João', 'Maria', 'Pedro', 'Ana', 'Carlos'],
-  'Age': [20, 25, 30, 35, 40],
-  'City': ['São Paulo', 'Rio de Janeiro', 'Belo Horizonte', 'Curitiba', 'Florianópolis'],
-  'Country': ['Brasil', 'Brasil', 'Brasil', 'Brasil', 'Brasil']
-         }
